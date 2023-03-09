@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Transform your brand",
+        "desc": "We are a full-service creative agency specializing in helping brands grow fast. Engage your clients through compelling visuals that do most of the marketing for you.",
+        "button":"Learn more",
+        "gridarea":"C",
+        "background":"linear-gradient(0deg, hsla(51, 100%, 49%, 0.8), hsla(0, 0%, 100%, 0.5))"
+    },
+    {
+        "title": "Stand out to the right audience",
+        "desc": "Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters, we’ll build and extend your brand in digital places.",
+        "button":"Learn more",
+        "gridarea":"F",
+        "background":"linear-gradient(0deg, hsla(7, 99%, 70%, 0.8), hsla(0, 0%, 100%, 0.5))"
+    }
+]

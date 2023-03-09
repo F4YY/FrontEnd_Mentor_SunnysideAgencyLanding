@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "image": "./images/desktop/image-transform.jpg",
+        "gridarea":"D"
+    },
+    {
+        "id": "2",
+        "image": "./images/desktop/image-stand-out.jpg",
+        "gridarea":"E"
+    },
+    {
+        "id": "3",
+        "image": "./images/desktop/image-gallery-milkbottles.jpg",
+        "gridarea":"M"
+    },
+    {
+        "id": "4",
+        "image": "./images/desktop/image-gallery-orange.jpg",
+        "gridarea":"N"
+    },
+    {
+        "id": "5",
+        "image": "./images/desktop/image-gallery-cone.jpg",
+        "gridarea":"O"
+    },
+    {
+        "id": "6",
+        "image": "./images/desktop/image-gallery-sugarcubes.jpg",
+        "gridarea":"P"
+    },
+    {
+        "id": "6",
+        "image": "./images/desktop/image-gallery-sugarcubes.jpg",
+        "gridarea":"P"
+    }
+]
+
