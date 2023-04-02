@@ -358,7 +358,7 @@ export const Overlayscreen = styled.div`
 export const Menulist = styled(Vstack)`
     position: fixed;
     flex-direction: column;
-    top:12%;
+    top:14%;
     right:10%;
     width: auto;
     height: auto;
