@@ -348,18 +348,23 @@ export const Overlayscreen = styled.div`
     left:0;
     width:100%;
     height:100vh;
+    animation: overlayslide .3s ease-out;
+    animation-direction: alternate;
+    animation-iteration-count: 1;
     opacity:.7;
     background:var(--Very-dark-Desaturatedblue);
     z-index: 1;
 `
 export const Menulist = styled(Vstack)`
-    position: relative;
+    position: fixed;
     flex-direction: column;
-    top:100px;
-    right:10px;
+    top:12%;
+    right:10%;
     width: auto;
     height: auto;
-    transition: .5s ease-in-out;
+    animation: slidernav .5s ease-in;
+    animation-direction: alternate;
+    animation-iteration-count: 1;
     background:var(--White);
     z-index: 1;
     @media screen and (max-width:600px) {

@@ -142,4 +142,22 @@ export const Container = styled.div`
             transform: translate3d(0,40px,0);
         }
     }
+    @keyframes slidernav {
+        from {
+            transform: translate3d(0,-120%,0);
+            rotate:0deg;
+        }
+        to{
+            transform: translate3d(0,0,0);
+            rotate:-360deg;
+        }
+    }
+    @keyframes overlayslide {
+        from {
+            transform: translate3d(0,100%,0);
+        }
+        to{
+            transform: translate3d(0,0,0);
+        }
+    }
 `
